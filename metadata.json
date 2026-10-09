@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse",
+  "description": "A first-person psychological survival horror game set in a mysterious desolate anomaly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
